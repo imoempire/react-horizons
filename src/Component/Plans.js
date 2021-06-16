@@ -4,10 +4,10 @@ import image7 from '../images/nastuh-abootalebi-ZtC4_rPCRXA-unsplash.jpg';
 import image8 from '../images/nastuh-abootalebi-eHD8Y1Znfpk-unsplash.jpg';
 import image9 from '../images/benjamin-child-0sT9YhNgSEs-unsplash.jpg';
 
-const Plans = () => {
+const Plans = (props) => {
     return (
         <div className="container plans">
-        <h2 className="text-center">      PLANS        </h2>
+        <h2 className="text-center">{props.text}</h2>
       <div className="row">
         <div className="col-md-3">
           <div className="thumbnail">
