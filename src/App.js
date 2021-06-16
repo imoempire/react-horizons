@@ -8,8 +8,8 @@ function App() {
     <>
     <Navbar />
     <Carousel />
-    <Plans />
-    <Footer />
+    <Plans text='PLANS'/>
+    <Footer texts='VISIT US IN KENYA'/>
     </>
   );
 }
