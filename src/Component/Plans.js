@@ -1,5 +1,8 @@
 import React from 'react';
-import
+import image6 from '../images/luke-chesser-wnShDP37vB4-unsplash.jpg';
+import image7 from '../images/nastuh-abootalebi-ZtC4_rPCRXA-unsplash.jpg';
+import image8 from '../images/nastuh-abootalebi-eHD8Y1Znfpk-unsplash.jpg';
+import image9 from '../images/benjamin-child-0sT9YhNgSEs-unsplash.jpg';
 
 const Plans = () => {
     return (
@@ -8,7 +11,7 @@ const Plans = () => {
       <div className="row">
         <div className="col-md-3">
           <div className="thumbnail">
-          <img src="images/luke-chesser-wnShDP37vB4-unsplash.jpg" alt="office" />
+          <img src={image6} alt="office" />
           
         <h4>VIRTUAL OFFICE</h4>
         <p>Our virtual offices allow your business to get our location, 
@@ -17,7 +20,7 @@ const Plans = () => {
     </div>
         <div className="col-md-3">
           <div className="thumbnail">
-            <img src="images/nastuh-abootalebi-ZtC4_rPCRXA-unsplash.jpg" alt="office" />
+            <img src={image7} alt="office" />
           
           <h4> CUSTOMIZED OFFICE</h4>
           <p>Our virtual offices allow your business to get our location, 
@@ -27,7 +30,7 @@ const Plans = () => {
 
         <div className="col-md-3">
           <div className="thumbnail">
-          <img src="images/nastuh-abootalebi-eHD8Y1Znfpk-unsplash.jpg" alt="office" />
+          <img src={image8} alt="office" />
         
         <h4>SERVICED OFFICE</h4>
         <p>
@@ -39,7 +42,7 @@ const Plans = () => {
 
         <div className="col-md-3">
           <div className="thumbnail">
-            <img src="images/benjamin-child-0sT9YhNgSEs-unsplash.jpg" alt="office" />
+            <img src={image9} alt="office" />
             <div className="caption">
               <h4>MEETING ROOM</h4>
               <p> Our virtual offices allow your business to get our location, 
