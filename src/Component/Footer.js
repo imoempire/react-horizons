@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Footer = () => {
+const Footer = (props) => {
     return (
         <div className="footer">
         <div className="row">
      <div className="col-md-4">
-            <h3>VISIT US IN KENYA</h3>
+            <h3>{props.texts}</h3>
             <h4>Nairobi, Kenya</h4>
             <p>Belgravia Center, 14 Riverside Road <br />
               4th floor Off Riverside Drivebr <br />
