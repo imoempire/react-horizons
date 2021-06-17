@@ -1,7 +1,7 @@
-import Carousel from "./Component/Carousel";
-import Footer from "./Component/Footer";
-import Navbar from "./Component/Navbar";
-import Plans from "./Component/Plans";
+import Carousel from "./Component/Carousel/Carousel";
+import Footer from "./Component/Footer/Footer";
+import Navbar from "./Component/Navbar/Navbar";
+import Plans from "./Component/Plans/Plans";
 
 function App() {
   return (
