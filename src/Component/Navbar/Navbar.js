@@ -1,4 +1,4 @@
-// import './Navbar.css'
+import './Navbar.css'
 import React from 'react';
 import image1 from '../../images/logo white.jpg';
 import image2 from '../../images/th.jpg';
