@@ -4,6 +4,15 @@
     border-radius: 0px;
     margin-bottom: 0%;}
 
-    .logo img{
+.logo img{
         width: 100px; height: 35px; 
         padding: 0px; margin: 0px; }
+        
+.flag > li > a > img  { 
+    height: 20px;   
+    text-align: center; }
+      
+.flag{ padding-left: 30%
+          
+      }
+      
