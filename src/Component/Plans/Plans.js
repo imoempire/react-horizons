@@ -1,8 +1,8 @@
 import React from 'react';
-import image6 from '../images/luke-chesser-wnShDP37vB4-unsplash.jpg';
-import image7 from '../images/nastuh-abootalebi-ZtC4_rPCRXA-unsplash.jpg';
-import image8 from '../images/nastuh-abootalebi-eHD8Y1Znfpk-unsplash.jpg';
-import image9 from '../images/benjamin-child-0sT9YhNgSEs-unsplash.jpg';
+import image6 from '../../images/luke-chesser-wnShDP37vB4-unsplash.jpg';
+import image7 from '../../images/nastuh-abootalebi-ZtC4_rPCRXA-unsplash.jpg';
+import image8 from '../../images/nastuh-abootalebi-eHD8Y1Znfpk-unsplash.jpg';
+import image9 from '../../images/benjamin-child-0sT9YhNgSEs-unsplash.jpg';
 
 const Plans = (props) => {
     return (
