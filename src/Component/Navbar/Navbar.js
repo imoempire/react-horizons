@@ -1,8 +1,9 @@
+import './Navbar.css'
 import React from 'react';
-import image1 from '../images/logo white.jpg';
-import image2 from '../images/th.jpg';
-import image3 from '../images/th (1).jpg';
-import image4 from '../images/th (2).jpg';
+import image1 from '../../images/logo white.jpg';
+import image2 from '../../images/th.jpg';
+import image3 from '../../images/th (1).jpg';
+import image4 from '../../images/th (2).jpg';
 
 const Navbar = () => {
     return (
