@@ -8,19 +8,6 @@
         width: 100px; height: 35px; 
         padding: 0px; margin: 0px; }
 
-    .carousel-inner{ height: 70vh;}
-    .slider div img { 
-        width: 100%;
-        }
 .thumbnail { padding: 5px;}
 
 
-.flag > li > a > img  { height: 20px;
-      text-align: center; }
-
-.flag{ padding-left: 30%
-    }
-    
-.footer { background-color: rgb(38, 38, 107);
-margin-top: 70px;
-color: orange; text-align: center;}
