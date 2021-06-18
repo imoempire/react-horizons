@@ -1,5 +1,6 @@
 import React from 'react';
-import image5 from '../images/Horizon-Media-offices-by-a-i-architecture-New-York-12.jpg'
+import './Carousel.css';
+import image5 from '../../images/Horizon-Media-offices-by-a-i-architecture-New-York-12.jpg';
 
 const Carousel = () => {
     return (
