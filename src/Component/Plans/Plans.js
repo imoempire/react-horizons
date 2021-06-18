@@ -1,3 +1,4 @@
+import './Plan.css';
 import React from 'react';
 import image6 from '../../images/luke-chesser-wnShDP37vB4-unsplash.jpg';
 import image7 from '../../images/nastuh-abootalebi-ZtC4_rPCRXA-unsplash.jpg';
